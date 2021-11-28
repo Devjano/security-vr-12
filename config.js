@@ -1,6 +1,6 @@
 module.exports = {
-    defaultPrefix: 'h!',
-    ownerID: '681553671364018196',
+    defaultPrefix: 'B/',
+    ownerID: '875123168321355796',
     _limits: 'The following are defaults.',
     adminCanChangeLimits: true,
     limits: {
@@ -43,5 +43,5 @@ module.exports = {
     _config: 'The following are defaults.',
     config: {
         _null: 'No options to configure currently.'
-    }
+    OTE0MjAzMzA1MjgwOTU0Mzkw.YaJoLQ.WjcPwk7VLim9thOHDYNRb7Qnm_Y}
 };
